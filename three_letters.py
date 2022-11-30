@@ -1,0 +1,1 @@
+three_letters_list=['led','cum','joc','leu','lup','bob','zeu','oua','orb','foc','fum','ceh','pun','rol','cub','cod','bum','unu','pro','jur','dop','pup','fug','nul','jeg']

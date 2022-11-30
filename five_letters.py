@@ -1,0 +1,1 @@
+five_letters_list=['bomba','agrar','agera','oprit','retro','borna','bravo','cadou','macaz','presa','pufos','orase','lauda','legal','sapte','uscat','video','retur','recul','palat','fierb','fiert','etern','dunga','curaj']

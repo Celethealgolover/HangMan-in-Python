@@ -1,0 +1,1 @@
+seven_letters_list=['exemplu','proverb','majorat','conform','concert','concern','dulgher','pronume','incomod','prenume','erupere','concepe','polonez','creveti','frumosi','devreme','weekend','colonel','nucleol','exemplu','pulover','xenofob','pondere','cerebel','prelata']
